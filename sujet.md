@@ -153,7 +153,9 @@ OIC
 
 #### While/For
 starts with `IM IN YR <label> <operation> YR <variable> WILE <expression>`
+
 `<label>` is the loop name
+
 `<operation>` can be:
 - `UPPIN` augmente de un la variable
 - `NERFIN` enleve un à la variable
