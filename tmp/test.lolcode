@@ -1,0 +1,29 @@
+HAI 1.2
+
+I HAS A variable
+
+variable R SUM OF 4 AN 5
+
+VISIBLE variable
+
+BOTH SAEM 4 AN 5
+O RLY?
+    YA RLY
+        VISIBLE "yes"
+    MEBBE BOTH SAEM 3 AN 3
+        VISIBLE "3 == 3"
+    NO WAI
+        VISIBLE "false"
+OIC
+
+I HAS A hhh
+GIMMEH hhh
+VISIBLE hhh
+
+I HAS A iii
+iii R 0
+IM IN YR loopten UPPIN YR iii WILE DIFFRINT iii AN 10
+    VISIBLE iii
+IM OUTTA YR loopten
+
+KTHXBYE
