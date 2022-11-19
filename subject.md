@@ -2,6 +2,9 @@
 
 Fizz buzz is a group word game for children to teach them about division.
 
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
 ## Rule
 
 Players generally sit in a circle.
@@ -13,6 +16,9 @@ However,
 - any number divisible by five by the word buzz.
 - Numbers divisible by both three and five (i.e. divisible by 15) become fizz buzz.
 
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
 ## What you need to do
 
 A fizzbuzz in [lolcode](https://en.wikipedia.org/wiki/LOLCODE) that print up to 100
@@ -20,6 +26,9 @@ A fizzbuzz in [lolcode](https://en.wikipedia.org/wiki/LOLCODE) that print up to 
 The goal here is to learn the basic syntax of LolCode (an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language))
 
 - You can open the file `fizzbuzz.lolcode` and write your code in it
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
 ## Help
 
@@ -44,6 +53,14 @@ docker run --rm -v "$PWD":/code:ro esolang/lolcode lolcode /code/<yourfile>
 ```
 
 [esolang/lolcode](https://hub.docker.com/r/esolang/lolcode)
+
+### Example can be found `examples/` folder
+
+- example in lolcode will ends with `.lolcode`
+
+- and the translation in python of the lolcode with `.py`
+
+-------------------------------------------------------------------------------
 
 ### Keyword of lolcode:
 
